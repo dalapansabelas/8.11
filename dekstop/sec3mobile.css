@@ -1,0 +1,26 @@
+
+.container img{
+    width: 80%;
+    position: relative;
+    left: 130px;
+    top:10px;
+}
+
+.container3 h1{
+    color: white;
+    position: relative;
+    left: 10px;
+    bottom: 340px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.container3 h3{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    position: relative;
+    left: -2px;
+    top:-294px;
+}
+

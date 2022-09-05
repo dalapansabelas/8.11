@@ -1,0 +1,183 @@
+@font-face {
+    font-family: font;
+    src: url(s);
+}
+
+
+
+* {
+    padding:0%;
+    margin:0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  html {
+  
+    font-family: "Montserrat";
+    scroll-behavior: smooth;
+  }
+  section {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+
+section p{
+  justify-content: center;
+  color: white;
+}
+  section p{
+    font-weight: bolder;
+    font-family: 'font';
+    font-size:30px;
+    z-index: 99%;
+    position: absolute;
+    top: 130px;
+  }
+
+  section h2{
+    color: rgb(255, 255, 255);
+    z-index: 99;
+  }
+  
+  section h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:35px;
+    position: absolute;
+    top: 160px;
+  }
+
+  section h3{
+    color: rgb(255, 255, 255);
+    z-index: 99;
+  }
+  
+  section h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:19px;
+    position: absolute;
+    top: 194px;
+  }
+ 
+  #sec-1 {
+    font-family:fantasy;
+    font-size: 30px;
+    background-image: linear-gradient(rgb(74,138,175,255),white);
+  }
+
+  #sec-2 {
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(74,138,175,255));
+  }
+
+  #sec-3{
+    background-image: linear-gradient(rgb(74,138,175,255),rgb(255, 255, 255));
+  }
+
+  
+  #sec-5{
+    background-image: linear-gradient(rgb(74,138,175,255),rgb(255, 255, 255));
+  }
+
+#sec-100{
+position: absolute;
+right: 40px;
+top: 200px;
+color: white;
+
+}
+.judul  li a{
+    
+    font-family:serif;
+    font-size:14px;
+    background-color:rgb(132,176,203,255);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+ .judul  li {
+    position: absolute;
+    top: 300px;
+    left: 15%;
+    list-style: none;
+    
+ }
+ .judul1  li a{
+    
+    font-family:serif;
+    font-size:12px;
+    background-color: rgba(132,176,203,255);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    
+}
+
+ .judul1  li {
+    position: absolute;
+    top: 300px;
+    left: 28%;
+
+    list-style: none;
+ }
+ .judul2  li a{
+    
+    font-family:serif;
+    font-size:12px;
+    background-color: rgba(132,176,203,255);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+ .judul2  li {
+    position: absolute;
+    top: 300px;
+    left: 65%;
+    
+    list-style: none;
+ }
+
+ .judul3  li a{
+    
+    font-family:serif;
+    font-size:14px;
+    background-color: rgba(132,176,203,255);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+ .judul3  li {
+    position: absolute;
+    top: 300px;
+    left: 90%;
+    
+    list-style: none;
+ }
+
+.up a img{
+  position:fixed;
+  right: 20px;
+  top: 535px;
+  rotate: 180deg;
+ cursor: pointer;
+ 
+}
+.up a img{
+   height: 30px;
+  width: 30px;
+  background-color: #5d88ff;
+  border-radius: 50%;
+  scroll-behavior: smooth;
+  z-index: 99999;
+}
+
+
+ 
+
+
