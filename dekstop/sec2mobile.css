@@ -1,0 +1,62 @@
+
+.walas p{
+    position: absolute;
+    top: 976px;
+    left: 92px;
+    color: black;
+   
+}
+.walas p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    background-color: white;
+    border-radius: 6px;
+    padding: 2px;
+    
+}
+
+.walas p1{
+    position: absolute;
+    top: 1000px;
+    left: 80px;
+    background-color: white;
+    border-radius: 6px;
+    padding: 2px;
+   
+}
+.walas p1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+}
+
+
+.container2 h4{
+    color: rgb(0, 0, 0);
+    box-shadow:  5px 5px 10px rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 10px;
+    position: absolute;
+    left: 30px;
+    top: 1030px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+@media(min-width:360px){
+    .walas p{
+        position: absolute;
+        top: 1050px;
+    }
+    .walas p1{
+        position: absolute;
+        top: 1070px;
+    }
+    .container2 h4{
+        position: absolute;
+        top: 1100px;
+    }
+}
+
