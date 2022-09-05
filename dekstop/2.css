@@ -215,15 +215,15 @@ color: white;
 @media(max-width:450px){
  .up img,#sec-1,#sec-100,#sec-2,#sec-3,#sec-4,#sec-5{
     display: none;
- }
   }
   .mobile a{
     opacity: 100%;
-    font-size: 30px;
+    font-size: large;
     justify-content: center;
     position: absolute ;
-    top: 370px;
-    left: 150px;
+    top: 300px;
+    left: 180px;
   }
   
+}
 
