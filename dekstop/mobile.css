@@ -1,0 +1,230 @@
+@font-face {
+    font-family: font;
+    src: url(s);
+}
+
+
+
+* {
+    padding:0%;
+    margin:0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  html {
+  
+    font-family: "Montserrat";
+    scroll-behavior: smooth;
+  }
+  section {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+
+section p{
+  justify-content: center;
+  color: white;
+}
+  section p{
+    font-weight: bolder;
+    font-family: 'font';
+    font-size:42px;
+    z-index: 99%;
+    position: absolute;
+    top: 130px;
+  }
+
+  section h2{
+    color: rgb(255, 255, 255);
+    z-index: 99;
+  }
+  
+  section h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:50px;
+    position: absolute;
+    top: 175px;
+  }
+
+  section h3{
+    color: rgb(255, 255, 255);
+    z-index: 99;
+  }
+  
+  section h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:28px;
+    position: absolute;
+    top: 225px;
+  }
+ 
+  #sec-1 {
+    font-family:fantasy;
+    font-size: 30px;
+    background-image: linear-gradient(rgb(74,138,175,255),white);
+  }
+
+  #sec-2 {
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(74,138,175,255));
+  }
+
+  #sec-3{
+    background-image: linear-gradient(rgb(74,138,175,255),rgb(255, 255, 255));
+  }
+
+  
+  #sec-5{
+    background-image: linear-gradient(rgb(74,138,175,255),rgb(255, 255, 255));
+  }
+
+#sec-100{
+position: absolute;
+right: 40px;
+top: 200px;
+color: white;
+
+}
+.judul  li a{
+    
+    font-family:serif;
+    font-size:15px;
+    background-color:rgb(132,176,203,255);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+ .judul  li {
+    position: absolute;
+    top: 300px;
+    left: 20%;
+    list-style: none;
+    
+ }
+ .judul1  li a{
+    
+    font-family:serif;
+    font-size:15px;
+    background-color: rgba(132,176,203,255);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    
+}
+
+ .judul1  li {
+    position: absolute;
+    top: 300px;
+    left: 30%;
+
+    list-style: none;
+ }
+ .judul2  li a{
+    
+    font-family:serif;
+    font-size:15px;
+    background-color: rgba(132,176,203,255);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+ .judul2  li {
+    position: absolute;
+    top: 300px;
+    left: 59%;
+    
+    list-style: none;
+ }
+
+ .judul3  li a{
+    
+    font-family:serif;
+    font-size:15px;
+    background-color: rgba(132,176,203,255);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+ .judul3  li {
+    position: absolute;
+    top: 300px;
+    left: 80%;
+    
+    list-style: none;
+ }
+
+.up a img{
+  position:fixed;
+  right: 20px;
+  top: 700px;
+  rotate: 180deg;
+ cursor: pointer;
+ 
+}
+.up a img{
+   height: 40px;
+  width: 40px;
+  background-color: #5d88ff;
+  border-radius: 50%;
+  scroll-behavior: smooth;
+  z-index: 99999;
+}
+
+
+ 
+
+@media(min-width:360px){
+ .up a img{
+  position: fixed;
+  left: 360px;
+ }
+.judul li{
+  position: absolute;
+  left:50px
+}
+.judul1 li{
+  position: absolute;
+  left: 100px;
+}
+.judul2 li{
+  position: absolute;
+  left: 265px;
+}
+.judul3 li{
+  position: absolute;
+  left: 380px;
+}
+
+  section p{
+    font-size: 36px;
+    position: absolute;
+    top: 80px;
+    
+  }
+  section h2{
+    font-size:40px ;
+    position: absolute;
+    top: 113px;
+    
+  }
+  section h3{
+    position: absolute;
+    top:150px;
+    font-size: 23px;
+  }
+  .up a img{
+    position: fixed;
+    top: 800px;
+    right: 150px;
+    width: 30px;
+    height: 30px;
+  }
+}
+
