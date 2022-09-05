@@ -183,6 +183,7 @@ color: white;
 @media(min-width:360px){
  .up a img{
   position: fixed;
+  top:100px;
   left: 360px;
  }
 .judul li{
