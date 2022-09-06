@@ -1,0 +1,49 @@
+
+.walas p{
+    position: absolute;
+    top: 1038px;
+    left: 92px;
+    color: white;
+   
+}
+.walas p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    background-color: #607EAA;
+    border-radius: 6px;
+    padding: 2px;
+    
+}
+
+.walas p1{
+    position: absolute;
+    top: 1060px;
+    left: 80px;
+    background-color: #607EAA;
+    border-radius: 6px;
+    padding: 2px;
+   
+}
+.walas p1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+}
+
+
+.container2 h4{
+    color: rgb(0, 0, 0);
+    box-shadow:  5px 5px 10px rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 9px;
+    position: absolute;
+    left: 30px;
+    top: 1095px;
+    background-color: #5F6F94;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+
+
