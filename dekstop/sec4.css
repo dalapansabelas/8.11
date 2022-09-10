@@ -1,0 +1,53 @@
+
+#sec-4{
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(74,138,175,255));
+  }
+
+  .teksig span{
+    position: absolute;
+    top: 2050px;
+    left: 640px;
+  }
+ .teksig span{
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    border-radius: 15%;
+}
+.teksig a{
+    position: absolute;
+    top: 2090px;
+    left: 550px;
+}
+.teksig a{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100px;
+    font-size: 30px;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 5%;
+    }
+
+    
+.teksig:hover{
+    color: rgba(197,12,184,255);
+    text-shadow:0 0 10px rgba(255,200,255,255);
+}
+.container .ig{
+    margin: 0 20px;
+}
+.container .ig span{
+    height: 60px;
+    width: 60px;
+    display: block;
+    background:#fff ;
+    border-radius: 50%;
+    box-shadow: 0 10px 10px rgb(0, 0, 0,0,1);
+}
+
+.ssig img{
+    
+    width:600px;
+    
+}
