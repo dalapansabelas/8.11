@@ -1,11 +1,5 @@
 
-.walas p{
-    position: absolute;
-    top: 900px;
-    left: 145px;
-    color: white;
-   
-}
+
 .walas p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 19px;
@@ -14,11 +8,17 @@
     padding: 2px;
     
 }
-
+.walas p{
+    position: absolute;
+    top: 825px;
+    left: 114px;
+    color: white;
+   
+}
 .walas p1{
     position: absolute;
-    top: 920px;
-    left: 132px;
+    top: 850px;
+    left: 100px;
     background-color: #607EAA;
     border-radius: 6px;
     padding: 2px;
@@ -38,11 +38,12 @@
     font-family:'Times New Roman', Times, serif;
     font-size: 12px;
     position: absolute;
-    left: 50px;
-    top: 980px;
+    left: 30px;
+    top: 900px;
     background-color: #5F6F94;
     padding: 10px;
     border-radius: 6px;
+    
 }
 
 
