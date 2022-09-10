@@ -1,7 +1,7 @@
 
 .walas p{
     position: absolute;
-    top: 1038px;
+    top: 900px;
     left: 92px;
     color: white;
    
@@ -17,7 +17,7 @@
 
 .walas p1{
     position: absolute;
-    top: 1060px;
+    top: 920px;
     left: 80px;
     background-color: #607EAA;
     border-radius: 6px;
@@ -39,7 +39,7 @@
     font-size: 9px;
     position: absolute;
     left: 30px;
-    top: 1095px;
+    top: 980px;
     background-color: #5F6F94;
     padding: 10px;
     border-radius: 6px;
