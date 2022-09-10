@@ -48,3 +48,15 @@
     
 }
 
+.upbutton3 img{
+    width: 200px;
+    position: absolute;
+    top: 2350px;
+    left: 105px;
+}
+.upbutton5 img{
+    width: 200px;
+    position: absolute;
+    top: 2850px;
+    left: 105px;
+}
